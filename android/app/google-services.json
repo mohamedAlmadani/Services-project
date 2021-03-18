@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "508558161696",
+    "project_id": "al-herafy",
+    "storage_bucket": "al-herafy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508558161696:android:5cadf963239c72242b8945",
+        "android_client_info": {
+          "package_name": "com.example.app03"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508558161696-om0615heoh6jlvrtd64da8toqpr202h2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB43HT4YgURXQye4mmsEMzQbHulv9OMdLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508558161696-om0615heoh6jlvrtd64da8toqpr202h2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
